@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "André Luiz Nobre Pinto",
+      "email": "andreluiznp@gmaill.com",
+      "fone": "85986838212"
+    },
+    {
+      "id": 2,
+      "name": "Maria Eliane Lima",
+      "email": "eliannylima@gmail.com",
+      "fone": "85986888077"
+    },
+    {
+      "name": "Maria Clara Lima Nobre Pinto",
+      "email": "mariaclaralnp@gmail.com",
+      "fone": "85982163818",
+      "id": 3
+    },
+    {
+      "name": "Maria das Gracas",
+      "email": "mariagraca@gmail.com",
+      "fone": "8534727357",
+      "id": 5
+    },
+    {
+      "name": "Alinne Nobre Pinto",
+      "email": "alinnenp@gmail.com",
+      "fone": "85986828212",
+      "id": 6
+    }
+  ]
+}
